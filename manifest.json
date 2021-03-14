@@ -1,9 +1,9 @@
 {
     "files": {
-        "LICENSE": "53927bd0b739d38c87a0a82236fd9b070c2dfff11c0c119be50372005d5047ad",
-        "README.md": "d4aa9cd854a29e0054377284d726d3be4cbd45307b35ff3dfded241bfa1bac73",
-        "index.js": "f02974ebe3f4ea2c201327a098ddf1201f886ed9eb00b7b4e30c958160677612",
-        "module.json": "a8199b40808b79172f047dd92549b66446d19b23a11b5ea038bd6b020d24f2c0",
-        "settings_migrator.js": "1dc303c15cc9a42b856c4bd13034b5526e68ff961082aef99bfdec740ef2c684"
+      "LICENSE": "53927bd0b739d38c87a0a82236fd9b070c2dfff11c0c119be50372005d5047ad",
+      "README.md": "d4aa9cd854a29e0054377284d726d3be4cbd45307b35ff3dfded241bfa1bac73",
+      "index.js": "f02974ebe3f4ea2c201327a098ddf1201f886ed9eb00b7b4e30c958160677612",
+      "module.json": "a8199b40808b79172f047dd92549b66446d19b23a11b5ea038bd6b020d24f2c0",
+      "settings_migrator.js": "1dc303c15cc9a42b856c4bd13034b5526e68ff961082aef99bfdec740ef2c684"
     }
 }
