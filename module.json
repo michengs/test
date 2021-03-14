@@ -9,6 +9,6 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/michengs/command/master/"],
+    "servers": ["https://raw.githubusercontent.com/michengs/test/master/"],
     "disableAutoUpdate": false
 }
